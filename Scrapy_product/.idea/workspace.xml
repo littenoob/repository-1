@@ -10,16 +10,49 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3eb42051-5a35-47a3-853c-8745770e5f9b" name="Default Changelist" comment="" />
+    <list default="true" id="a9f9120b-622b-4140-b524-326d9cc20c08" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jd_price/jd_price/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jd_price/jd_price/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jd_price/jd_price/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jd_price/jd_price/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jd_price/jd_price/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jd_price/jd_price/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jd_price/jd_price/spiders/phone_price.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jd_price/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue_product/vue_main_product/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue_product/vue_main_product/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue_product/vue_main_product/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue_product/vue_main_product/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue_product/vue_main_product/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue_product/vue_main_product/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue_product/vue_main_product/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue_product/vue_main_product/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue_product/vue_main_product/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue_product/vue_main_product/src/components/ComponentHeader.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue_product/vue_main_product/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue_product/vue_main_product/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue_product/vue_main_product/views/main.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vue_product/vue_main_product/yarn.lock" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="24vCNugFyN6pPGjiuFdSwEUgy2o" />
+  <component name="ProjectId" id="27TeOolOAgH3RAY5ffe0Od3qFln" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,21 +61,156 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/study/pythonStudy/流畅的python/pachong" />
-    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jd_price/spiders" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\毕设\code-respository\Scrapy_product\jd_price\spiders" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.jd_pre">
+    <configuration name="jd_pr (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Scrapy_product" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jd_price/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jd_price/spiders/jd_pr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jd_pre" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Scrapy_product" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jd_price/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jd_price/spiders/jd_pre.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jd_pri1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Scrapy_product" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jd_price/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jd_price/spiders/jd_pri1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jd_pri1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Scrapy_product" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jd_price/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\毕设\code-respository\Scrapy_product\jd_price\spiders\jd_pri1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jd_price" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Scrapy_product" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jd_price/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jd_price/spiders/jd_price.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.jd_pre" />
+        <item itemvalue="Python.jd_price" />
+        <item itemvalue="Python.jd_pri1 (1)" />
+        <item itemvalue="Python.jd_pri1" />
+        <item itemvalue="Python.jd_pr (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3eb42051-5a35-47a3-853c-8745770e5f9b" name="Default Changelist" comment="" />
-      <created>1644501636863</created>
+      <changelist id="a9f9120b-622b-4140-b524-326d9cc20c08" name="Default Changelist" comment="" />
+      <created>1649348473681</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1644501636863</updated>
-      <workItem from="1644501640119" duration="3051000" />
+      <updated>1649348473681</updated>
+      <workItem from="1649348475258" duration="1905000" />
+      <workItem from="1649493957778" duration="6158000" />
+      <workItem from="1649573012975" duration="11253000" />
+      <workItem from="1650437857888" duration="5575000" />
+      <workItem from="1651488980101" duration="10018000" />
+      <workItem from="1651678722269" duration="1201000" />
+      <workItem from="1651937389083" duration="2585000" />
+      <workItem from="1652002040233" duration="44000" />
+      <workItem from="1652173973029" duration="369000" />
     </task>
     <servers />
   </component>
@@ -59,11 +227,85 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1644503085290">
+    <state x="169" y="254" key="#SQL_Dialects" timestamp="1649579130038">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1644503085290" />
+    <state x="169" y="254" key="#SQL_Dialects/0.0.1536.824@0.0.1536.824" timestamp="1649579130038" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1650438650883">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1650438650883" />
+    <state x="169" y="130" width="868" height="638" key="#xdebugger.evaluate" timestamp="1651505050089">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="169" y="130" width="868" height="638" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1651505050089" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1652002097204">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1652002097204" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1652174349472">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1652174349472" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1652174349471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1652174349471" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1652174349471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1652174349471" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1652174349471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1652174349471" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1651680520801">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1651680520801" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1651680520801">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1651680520801" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1651680520801">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1651680520801" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1651680520801">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1651680520801" />
+    <state x="270" y="57" key="SettingsEditor" timestamp="1649348540486">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1649348540486" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1651505007645">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1651505007645" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Scrapy_product$jd_price.coverage" NAME="jd_price Coverage Results" MODIFIED="1652174019089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jd_price/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_product$jd_price1.coverage" NAME="jd_price1 Coverage Results" MODIFIED="1651939840760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jd_price/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_product$req1.coverage" NAME="req1 Coverage Results" MODIFIED="1649584788442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jd_price" />
+    <SUITE FILE_PATH="coverage/Scrapy_product$jd_pr__1_.coverage" NAME="jd_pr (1) Coverage Results" MODIFIED="1651938168794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jd_price/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_product$jd_pre.coverage" NAME="jd_pre Coverage Results" MODIFIED="1652174038034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jd_price/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_product$1.coverage" NAME="1 Coverage Results" MODIFIED="1651679098178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jd_price/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_product$jd_pri1__1_.coverage" NAME="jd_pri1 (1) Coverage Results" MODIFIED="1651939860611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jd_price/spiders" />
+    <SUITE FILE_PATH="coverage/Scrapy_product$db_change.coverage" NAME="db_change Coverage Results" MODIFIED="1649349203866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

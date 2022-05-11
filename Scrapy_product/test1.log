@@ -1,0 +1,29 @@
+Friday, 08 April 2022 00:29:19[line:64] DEBUG Using selector: SelectSelector
+Friday, 08 April 2022 00:29:20[line:71] INFO mysql select “Ï≥££∫Traceback (most recent call last):
+  File "C:/Users/Administrator/Desktop/±œ…Ë/code-respository/Scrapy_product/db_change.py", line 58, in fetch
+    res = await cursor.execute(sql, data)
+  File "D:\study\Python37\lib\site-packages\aiomysql\cursors.py", line 239, in execute
+    await self._query(query)
+  File "D:\study\Python37\lib\site-packages\aiomysql\cursors.py", line 457, in _query
+    await conn.query(q)
+  File "D:\study\Python37\lib\site-packages\aiomysql\connection.py", line 428, in query
+    await self._read_query_result(unbuffered=unbuffered)
+  File "D:\study\Python37\lib\site-packages\aiomysql\connection.py", line 620, in _read_query_result
+    await result.read()
+  File "D:\study\Python37\lib\site-packages\aiomysql\connection.py", line 1103, in read
+    first_packet = await self.connection._read_packet()
+  File "D:\study\Python37\lib\site-packages\aiomysql\connection.py", line 591, in _read_packet
+    packet.check_error()
+  File "D:\study\Python37\lib\site-packages\pymysql\protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "D:\study\Python37\lib\site-packages\pymysql\err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form t_student' at line 1")
+
+Friday, 08 April 2022 00:30:51[line:64] DEBUG Using selector: SelectSelector
+Friday, 08 April 2022 00:31:33[line:64] DEBUG Using selector: SelectSelector
+Friday, 08 April 2022 00:31:42[line:64] DEBUG Using selector: SelectSelector
+Friday, 08 April 2022 00:32:03[line:64] DEBUG Using selector: SelectSelector
+Friday, 08 April 2022 00:32:23[line:64] DEBUG Using selector: SelectSelector
+Friday, 08 April 2022 00:32:49[line:64] DEBUG Using selector: SelectSelector
+Friday, 08 April 2022 00:33:25[line:64] DEBUG Using selector: SelectSelector

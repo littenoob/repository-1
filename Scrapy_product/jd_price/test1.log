@@ -1,0 +1,63 @@
+Sunday, 10 April 2022 17:24:11[line:64] DEBUG Using selector: SelectSelector
+Sunday, 10 April 2022 17:24:12[line:64] DEBUG Using selector: SelectSelector
+Sunday, 10 April 2022 17:24:35[line:64] DEBUG Using selector: SelectSelector
+Sunday, 10 April 2022 17:24:35[line:64] DEBUG Using selector: SelectSelector
+Sunday, 10 April 2022 17:25:18[line:64] DEBUG Using selector: SelectSelector
+Sunday, 10 April 2022 17:25:18[line:64] DEBUG Using selector: SelectSelector
+Sunday, 10 April 2022 17:26:48[line:64] DEBUG Using selector: SelectSelector
+Sunday, 10 April 2022 17:26:48[line:64] DEBUG Using selector: SelectSelector
+Sunday, 10 April 2022 17:27:50[line:64] DEBUG Using selector: SelectSelector
+Sunday, 10 April 2022 17:27:50[line:64] DEBUG Using selector: SelectSelector
+Sunday, 10 April 2022 17:29:16[line:64] DEBUG Using selector: SelectSelector
+Sunday, 10 April 2022 17:29:16[line:64] DEBUG Using selector: SelectSelector
+Sunday, 10 April 2022 17:29:21[line:64] DEBUG Using selector: SelectSelector
+Sunday, 10 April 2022 17:29:21[line:64] DEBUG Using selector: SelectSelector
+Sunday, 10 April 2022 17:31:14[line:64] DEBUG Using selector: SelectSelector
+Sunday, 10 April 2022 17:35:16[line:64] DEBUG Using selector: SelectSelector
+Sunday, 10 April 2022 17:38:02[line:64] DEBUG Using selector: SelectSelector
+Sunday, 10 April 2022 17:40:57[line:64] DEBUG Using selector: SelectSelector
+Sunday, 10 April 2022 17:42:49[line:64] DEBUG Using selector: SelectSelector
+Sunday, 10 April 2022 17:44:24[line:943] DEBUG Starting new HTTPS connection (1): top.zol.com.cn:443
+Sunday, 10 April 2022 17:44:24[line:442] DEBUG https://top.zol.com.cn:443 "GET /compositor/57/manu_1795.html HTTP/1.1" 200 None
+Sunday, 10 April 2022 17:44:27[line:61] DEBUG CP932 Japanese prober hit error at byte 95
+Sunday, 10 April 2022 17:44:27[line:119] DEBUG windows-1251 confidence = 0.003013213879292431, below negative shortcut threshhold 0.05
+Sunday, 10 April 2022 17:44:27[line:119] DEBUG ISO-8859-5 confidence = 0.030891322098530502, below negative shortcut threshhold 0.05
+Sunday, 10 April 2022 17:44:27[line:119] DEBUG ISO-8859-7 confidence = 0.0013193503875725844, below negative shortcut threshhold 0.05
+Sunday, 10 April 2022 17:44:27[line:119] DEBUG ISO-8859-5 confidence = 0.02967742736534638, below negative shortcut threshhold 0.05
+Sunday, 10 April 2022 17:44:27[line:119] DEBUG windows-1251 confidence = 0.00695443225895847, below negative shortcut threshhold 0.05
+Sunday, 10 April 2022 17:44:27[line:97] DEBUG utf-8 not active
+Sunday, 10 April 2022 17:44:27[line:97] DEBUG CP932 not active
+Sunday, 10 April 2022 17:44:27[line:100] DEBUG EUC-JP Japanese confidence = 0.12102633969118982
+Sunday, 10 April 2022 17:44:27[line:100] DEBUG GB2312 Chinese confidence = 0.99
+Sunday, 10 April 2022 17:44:27[line:100] DEBUG EUC-KR Korean confidence = 0.01
+Sunday, 10 April 2022 17:44:27[line:100] DEBUG CP949 Korean confidence = 0.01
+Sunday, 10 April 2022 17:44:27[line:100] DEBUG Big5 Chinese confidence = 0.01
+Sunday, 10 April 2022 17:44:27[line:100] DEBUG EUC-TW Taiwan confidence = 0.01
+Sunday, 10 April 2022 17:44:27[line:97] DEBUG windows-1251 not active
+Sunday, 10 April 2022 17:44:27[line:100] DEBUG KOI8-R Russian confidence = 0.10794664542600658
+Sunday, 10 April 2022 17:44:27[line:97] DEBUG ISO-8859-5 not active
+Sunday, 10 April 2022 17:44:27[line:100] DEBUG MacCyrillic Russian confidence = 0.0
+Sunday, 10 April 2022 17:44:27[line:100] DEBUG IBM866 Russian confidence = 0.11537360954987907
+Sunday, 10 April 2022 17:44:27[line:100] DEBUG IBM855 Russian confidence = 0.17028229707008793
+Sunday, 10 April 2022 17:44:27[line:97] DEBUG ISO-8859-7 not active
+Sunday, 10 April 2022 17:44:27[line:100] DEBUG windows-1253 Greek confidence = 0.001413706688194087
+Sunday, 10 April 2022 17:44:27[line:97] DEBUG ISO-8859-5 not active
+Sunday, 10 April 2022 17:44:27[line:97] DEBUG windows-1251 not active
+Sunday, 10 April 2022 17:44:27[line:100] DEBUG TIS-620 Thai confidence = 0.06034613638549513
+Sunday, 10 April 2022 17:44:27[line:100] DEBUG ISO-8859-9 Turkish confidence = 0.4697013490923429
+Sunday, 10 April 2022 17:44:27[line:100] DEBUG windows-1255 Hebrew confidence = 0.0
+Sunday, 10 April 2022 17:44:27[line:100] DEBUG windows-1255 Hebrew confidence = 0.0006292655172127322
+Sunday, 10 April 2022 17:44:27[line:100] DEBUG windows-1255 Hebrew confidence = 0.003146327586063661
+Sunday, 10 April 2022 17:44:27[line:97] DEBUG utf-8 not active
+Sunday, 10 April 2022 17:44:27[line:97] DEBUG CP932 not active
+Sunday, 10 April 2022 17:44:27[line:100] DEBUG EUC-JP Japanese confidence = 0.12102633969118982
+Sunday, 10 April 2022 17:44:27[line:100] DEBUG GB2312 Chinese confidence = 0.99
+Sunday, 10 April 2022 17:44:27[line:100] DEBUG EUC-KR Korean confidence = 0.01
+Sunday, 10 April 2022 17:44:27[line:100] DEBUG CP949 Korean confidence = 0.01
+Sunday, 10 April 2022 17:44:27[line:100] DEBUG Big5 Chinese confidence = 0.01
+Sunday, 10 April 2022 17:44:27[line:100] DEBUG EUC-TW Taiwan confidence = 0.01
+Sunday, 10 April 2022 17:45:38[line:64] DEBUG Using selector: SelectSelector
+Sunday, 10 April 2022 17:48:50[line:64] DEBUG Using selector: SelectSelector
+Sunday, 10 April 2022 17:55:29[line:64] DEBUG Using selector: SelectSelector
+Sunday, 10 April 2022 17:57:55[line:64] DEBUG Using selector: SelectSelector
+Sunday, 10 April 2022 17:59:49[line:64] DEBUG Using selector: SelectSelector
